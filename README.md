@@ -1,1 +1,1 @@
-# -duty-calendar
+# duty-calendar
